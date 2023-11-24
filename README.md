@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Amaad Siddique
+- 👀 I’m currently learning about AI, GitHub, and Team Building.
+- 🌱 I'm also a student of C.S
+- 💞️ I’m looking to help with AI
+- 📫 How to reach me @amaadsiddique0048@gmail.com
