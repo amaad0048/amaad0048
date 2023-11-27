@@ -1,4 +1,5 @@
-![github-logo](https://github.com/amaad0048/amaad0048/assets/150590146/a2168c35-a873-49f1-9e34-3d6cfcadb6a5)
+![github-logo](https://github.com/amaad0048/amaad0048/assets/150590146/f0ba13cc-3054-4e53-988c-a85830ffd210)
+
 <h1 align="center">Hi 👋, I'm Amaad Siddique</h1>
 <h3 align="center">A passionate intern at Reveltek</h3>
 
